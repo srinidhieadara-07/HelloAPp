@@ -1,4 +1,4 @@
-public class UC2 {
+public class uc2 {
     
 }
 public class Main {
